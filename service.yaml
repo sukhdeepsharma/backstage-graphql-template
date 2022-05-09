@@ -9,4 +9,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: sukhdeep
-  system: podcast
+  system: graphql
