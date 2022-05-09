@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: graphql-api
+  description: GraphQL API
+  tags:
+    - python
+spec:
+  type: service
+  lifecycle: experimental
+  owner: sukhdeep
+  system: podcast
